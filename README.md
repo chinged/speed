@@ -1,5 +1,4 @@
 ┌──(speed㉿chinged)-[~/PROFILE]
-└─$ 
 
     speed@info
     ──────────
