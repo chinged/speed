@@ -1,5 +1,5 @@
 ┌──(speed㉿chinged)-[~/PROFILE]
-└─$ https://daddyspeed.gay
+└─$ 
 
     speed@info
     ──────────
@@ -7,6 +7,7 @@
     🔞 Age: 15
     🌍 Country: UK
     🔗 Discord: Speed#9999
+    🌐 Website: https://daddyspeed.gay
                                          
     speed@stats
     ──────────
