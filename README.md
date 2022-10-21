@@ -1,6 +1,6 @@
 ┌──(speed㉿chinged)-[~/PROFILE]
 
-└─$ speed@info
+    speed@info
     ──────────
     👤 User: speed
     🔞 Age: 15
